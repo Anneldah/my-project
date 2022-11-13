@@ -22,11 +22,11 @@ export default function Home() {
                 "bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py6-2 rounded-md ml-8" href="#">Home</a></li>
            </ul>
           </nav>
-          <div>
+          <div className="text-center p-10">
             <h2>Anneldah Nkuna</h2>
             <h3>Final year student</h3><br/>
             <div>
-            <img src="/../public/ProfilePic.jpg" 
+            <image src="/../public/ProfilePic.jpg" 
                 alt="/" 
                 width='100' 
                 height='50'/>
