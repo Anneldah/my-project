@@ -24,7 +24,7 @@ export default function Home() {
           <div>
             <h2>Anneldah Nkuna</h2>
             <h3>Final year student</h3><br/>
-            <img src="../public/ProfilePic.jpg" 
+            <img src="/../public/ProfilePic.jpg" 
                 alt="/" 
                 width='100' 
                 height='50'/>
