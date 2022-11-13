@@ -31,11 +31,11 @@ export default function Home() {
             </p>
 
             <p>During my free time I go out on a gym, especially when I am feeling stressed or down. I also joined the VarsityGenie Programme where we <br/>
-            encourage young women to take part into Technolog, because we feel like most women are not into technology due to lack of encouragement, active discouragement<br/>
+            encourage young women to take part into Technology, because we feel like most women are not into technology due to lack of encouragement, active discouragement<br/>
             Hence we need more innovative and creative women in this industry like myself.</p>
 
-            <p>Having read the job description, I am confident I have the skills and qualities needed to rally excel in this job role<br/>
-            and I believe this being my first ob is actually an advantage to you, becauseyou can shape me and moulld me to how you need me to be.<br/>
+            <p>Having read the job description, I am confident I have the skills and qualities needed to raaly excel in this job role<br/>
+            and I believe this being my first job is actually an advantage to you, becauseyou can shape me and mould me to how you need me to be.<br/>
             I think you will be really impressed by my teamwork, my ability to learn and deliver solutions on time.</p>
           </div>
 
@@ -63,6 +63,31 @@ export default function Home() {
                 <li>Good experience of Visio as the basic tool for both analysis and design.</li>
   
             </ul>
+          </div>
+
+          <div>
+            <h2>Game Management System (Applications Development Project lll)</h2>
+            <p>
+              The project was based on building a system in helping the business to improve in terms of customer services and be on edge on modern technology.<br/>
+              The project had two main business processes which were booking and purchasing. For the customer to successfully complete one or any of the business processes she or he had to firstly register on the registration page,<br/>
+              confirm registration through an email then browse the catalogue or check for available games.
+              The team applied agile /scrum practices to manage the project.
+             </p>
+
+             <p>My role: Software engineer / analyst</p>
+
+             <p> Contributed to the analysis, design, coding, testing, and documentation of the business use cases. The following tools were used to complete the business use cases:</p>
+             <ul>
+             <li>Visual Studio</li>
+             <li>.Net C#</li>
+             <li>Bootstrap</li> 
+             <li>HTML5</li>
+             <li>CSS</li> 
+             <li>JavaScript</li>
+             <li>SQL </li>
+              <li>Microsoft Azure</li>
+             </ul>
+
           </div>
         </section>
       </main>
