@@ -69,8 +69,8 @@ export default function Home() {
             <h2>Game Management System (Applications Development Project lll)</h2>
             <p>
               The project was based on building a system in helping the business to improve in terms of customer services and be on edge on modern technology.<br/>
-              The project had two main business processes which were booking and purchasing. For the customer to successfully complete one or any of the business processes she or he had to firstly register on the registration page,<br/>
-              confirm registration through an email then browse the catalogue or check for available games.
+              The project had two main business processes which were booking and purchasing. For the customer to successfully complete one or any of the business processes she or<br/>
+               he had to firstly register on the registration page,confirm registration through an email then browse the catalogue or check for available games.
               The team applied agile /scrum practices to manage the project.
              </p>
 
