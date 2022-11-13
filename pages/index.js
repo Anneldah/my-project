@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import {BsFillMoonStarsFill} from "react-icons/bs";
-import {AiFillLinkedin} from "react-icons-ai";
+import useSWR from 'swr';
 
 export default function Home() {
   return (
