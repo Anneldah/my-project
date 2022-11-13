@@ -50,7 +50,20 @@ export default function Home() {
             </p>
 
           </div>
-
+          <div>
+            <h2>Skills</h2>
+            <ul>
+                <li>I have solid experience of being a team leader for different teams and contribute with decision making in real-life business projects.</li>
+                <li>Solid experience of developing software using C#.NET from first year to date.</li>
+                <li>Strong knowledge of software documentation from analysis to programmers manual.</li>
+                <li>Solid experience of agile development and SDLC for project management.</li>
+                <li>Good experience of HTML5 and CSS for UI with the help of JavaScript.</li>
+                <li>Good experience of using SQL for data storage, retrieval, and maintenance.</li>
+                <li>Good experience of Java for developing mobile Applications, using Android Studio as an IDE.</li>
+                <li>Good experience of Visio as the basic tool for both analysis and design.</li>
+  
+            </ul>
+          </div>
         </section>
       </main>
     </div>
