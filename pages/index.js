@@ -84,10 +84,17 @@ export default function Home() {
              <li>HTML5</li>
              <li>CSS</li> 
              <li>JavaScript</li>
-             <li>SQL </li>
+             <li>SQL</li>
               <li>Microsoft Azure</li>
              </ul>
 
+          </div>
+
+          <div>
+            <h2>Contact me here:</h2>
+
+            <p>Email: anneldahnce@gmail.com</p>
+            <p>Contact number: 0636110430</p>
           </div>
         </section>
       </main>
