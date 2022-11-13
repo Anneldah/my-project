@@ -17,7 +17,7 @@ export default function Home() {
           
           <div className="text-center p-10">
             <h2>Anneldah Nkuna's Portfolio</h2>
-            <h3>Final year student</h3><br/>
+
             <div>
             <img src="../ProfilePic.jpg" 
                 alt="/" 
