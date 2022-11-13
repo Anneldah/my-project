@@ -34,8 +34,8 @@ export default function Home() {
             encourage young women to take part into Technology, because we feel like most women are not into technology due to lack of encouragement, active discouragement<br/>
             Hence we need more innovative and creative women in this industry like myself.</p>
 
-            <p>Having read the job description, I am confident I have the skills and qualities needed to raaly excel in this job role<br/>
-            and I believe this being my first job is actually an advantage to you, becauseyou can shape me and mould me to how you need me to be.<br/>
+            <p>Having read the job description, I am confident I have the skills and qualities needed to really excel in this job role<br/>
+            and I believe this being my first job is actually an advantage to you, because you can shape me and mould me to how you need me to be.<br/>
             I think you will be really impressed by my teamwork, my ability to learn and deliver solutions on time.</p>
           </div>
 
