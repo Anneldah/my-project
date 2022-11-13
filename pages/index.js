@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import {BsFillMoonStarsFill} from "react-icons/bs";
 import useSWR from 'swr';
+import Image from 'next/image';
 
 export default function Home() {
   return (
