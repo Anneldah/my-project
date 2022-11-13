@@ -87,7 +87,8 @@ export default function Home() {
              <li>SQL</li>
               <li>Microsoft Azure</li>
              </ul>
-             <a href="https://2022-grp11.azurewebsites.net">Final year project</a>
+             <h3>You can access my final year project by clicking this link below:</h3>
+            <b><a href="https://2022-grp11.azurewebsites.net">FinalYearProjectLink</a></b>
 
           </div>
 
