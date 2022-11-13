@@ -34,7 +34,7 @@ export default function Home() {
             </p>
 
             <p>During my free time I go out on a gym, especially when I am feeling stressed or down. I also joined the VarsityGenie Programme where we <br/>
-            young women to take part into Technolog, because we feel like most women are not into technology due to lack of encouragement, active discouragement<br/>
+            encourage young women to take part into Technolog, because we feel like most women are not into technology due to lack of encouragement, active discouragement<br/>
             Hence we need more innovative and creative women in this industry like myself.</p>
 
             <p>Having read the job description, I am confident I have the skills and qualities needed to rally excel in this job role<br/>
