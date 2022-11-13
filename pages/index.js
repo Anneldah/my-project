@@ -24,6 +24,10 @@ export default function Home() {
           <div>
             <h2>Anneldah Nkuna</h2>
             <h3>Final year student</h3><br/>
+            <img src="../public/ProfilePic.jpg" 
+                alt="/" 
+                width='100' 
+                height='50'/>
             <p>My name is Nkuna Anneldah and I am currently doing my final year in Diploma in ICT in Applications Development.<br/>
             As a young lady in Software Engineering, growing up in a small rural area called Mbuzini in Mpumalanga Province, I knew education<br/>
             was the bridge I needed not to only change my current situation but to also change the future as a young leader to be a role model to other<br/>
