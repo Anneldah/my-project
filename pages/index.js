@@ -70,7 +70,7 @@ export default function Home() {
                 <li>Solid experience of developing software using C#.NET from first year to date.</li>
                 <li>Strong knowledge of software documentation from analysis to programmers manual.</li>
                 <li>Solid experience of agile development and SDLC for project management.</li>
-                <li>Good experience of HTML5 and CSS for UI with the help of JavaScript.</li>
+                <li>Good experience of HTML5 and CSS for UI with the little help of JavaScript.</li>
                 <li>Good experience of using SQL for data storage, retrieval, and maintenance.</li>
                 <li>Good experience of Java for developing mobile Applications, using Android Studio as an IDE.</li>
                 <li>Good experience of Visio as the basic tool for both analysis and design.</li>
