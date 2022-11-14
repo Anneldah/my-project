@@ -51,6 +51,19 @@ export default function Home() {
 
           </div>
           <div>
+            <h2>Key attributes</h2>
+            <ul>
+              <li>Communication</li>
+              <li>Teamwork</li>
+              <li>Leadership</li>
+              <li>Creativity</li>
+              <li>Determined and persistent</li>
+              <li>Flexibility</li>
+              <li>Attention to detail</li>
+              <li>Adaptability</li>
+            </ul>
+          </div>
+          <div>
             <h2>Skills</h2>
             <ul>
                 <li>I have solid experience of being a team leader for different teams and contribute with decision making in real-life business projects.</li>
