@@ -19,7 +19,7 @@ export default function Home() {
             <h2>Anneldah Nkuna's Portfolio</h2>
 
             <div>
-            <img src="../ProfilePic.jpg" 
+            <Image src="../ProfilePic.jpg" 
                 alt="/" 
                 width='300' 
                 height='200' align="center"/>
